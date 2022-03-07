@@ -1,0 +1,13 @@
+{
+  "name": "omar/day3",
+  "description": "hi",
+  "autoload": {
+    "classmap": [
+      "models"
+    ],
+    "files": [
+      "config.php"
+    ]
+  },
+  "require": {}
+}

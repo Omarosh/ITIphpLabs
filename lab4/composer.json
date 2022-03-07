@@ -1,0 +1,16 @@
+{
+  "name": "omar/hi",
+  "description": "Yoyoyo",
+  "license": "MIT",
+  "require": {
+    "illuminate/database": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "Model"
+    ],
+    "files": [
+      "config.php"
+    ]
+  }
+}
